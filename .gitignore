@@ -1,0 +1,12 @@
+pyvenv.cfg
+/Lib
+/Scripts
+.idea/.gitignore
+.idea/Sum_of_digits.iml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/
+
+
